@@ -1,0 +1,14 @@
+/Users/neill/Desktop/Dising Patter/c-shart/bin/Debug/net8.0/c-shart
+/Users/neill/Desktop/Dising Patter/c-shart/bin/Debug/net8.0/c-shart.deps.json
+/Users/neill/Desktop/Dising Patter/c-shart/bin/Debug/net8.0/c-shart.runtimeconfig.json
+/Users/neill/Desktop/Dising Patter/c-shart/bin/Debug/net8.0/c-shart.dll
+/Users/neill/Desktop/Dising Patter/c-shart/bin/Debug/net8.0/c-shart.pdb
+/Users/neill/Desktop/Dising Patter/c-shart/obj/Debug/net8.0/c-shart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neill/Desktop/Dising Patter/c-shart/obj/Debug/net8.0/c-shart.AssemblyInfoInputs.cache
+/Users/neill/Desktop/Dising Patter/c-shart/obj/Debug/net8.0/c-shart.AssemblyInfo.cs
+/Users/neill/Desktop/Dising Patter/c-shart/obj/Debug/net8.0/c-shart.csproj.CoreCompileInputs.cache
+/Users/neill/Desktop/Dising Patter/c-shart/obj/Debug/net8.0/c-shart.dll
+/Users/neill/Desktop/Dising Patter/c-shart/obj/Debug/net8.0/refint/c-shart.dll
+/Users/neill/Desktop/Dising Patter/c-shart/obj/Debug/net8.0/c-shart.pdb
+/Users/neill/Desktop/Dising Patter/c-shart/obj/Debug/net8.0/c-shart.genruntimeconfig.cache
+/Users/neill/Desktop/Dising Patter/c-shart/obj/Debug/net8.0/ref/c-shart.dll
